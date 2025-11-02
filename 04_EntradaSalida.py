@@ -1,7 +1,7 @@
 """
 EJEMPLO 4: ENTRADA Y SALIDA
 ----------------------------
-Aprende a recibir datos del usuario y mostrar información.
+Aprende a recibir datos del usuario y mostrar información...
 """
 
 # SALIDA DE DATOS (ya visto anteriormente)

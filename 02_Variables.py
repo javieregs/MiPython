@@ -2,7 +2,7 @@
 EJEMPLO 2: VARIABLES Y TIPOS DE DATOS
 -------------------------------------
 Las variables son contenedores que almacenan datos.
-Python tiene varios tipos de datos básicos.
+Python tiene varios tipos de datos básicos...
 """
 
 # Números enteros (int)

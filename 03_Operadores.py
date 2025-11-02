@@ -1,7 +1,7 @@
 """
 EJEMPLO 3: OPERADORES
 ---------------------
-Los operadores permiten realizar operaciones con variables y valores.
+Los operadores permiten realizar operaciones con variables y valores...
 """
 
 # OPERADORES ARITMÉTICOS

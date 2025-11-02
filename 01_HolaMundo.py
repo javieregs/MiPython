@@ -9,7 +9,7 @@ Imprime un mensaje en la consola.
 print("¡Hola, Mundo!")
 
 # También puedes usar variables
-mensaje = "¡Hola, Mundo desde Python! "
+mensaje = "¡Hola, Mundo desde Pythonland!"
 print(mensaje)
 
 # Imprimir múltiples mensajes

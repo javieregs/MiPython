@@ -1,5 +1,5 @@
 """
-EJEMPLO 4: ENTRADA Y SALIDA
+EJEMPLO 4: ENTRADA Y SALIDAS 
 ----------------------------
 Aprende a recibir datos del usuario y mostrar información...
 """

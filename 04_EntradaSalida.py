@@ -6,7 +6,6 @@ Aprende a recibir datos del usuario y mostrar información...
 
 # SALIDA DE DATOS (ya visto anteriormente)
 print("=== SALIDA DE DATOS ===")
-nombre = "María"
 edad = 20
 
 # Diferentes formas de imprimir
